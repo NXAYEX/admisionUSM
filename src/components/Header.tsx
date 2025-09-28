@@ -7,6 +7,7 @@ const Header = () => {
 
   const navigation = [
     { name: "Carreras", href: "#carreras" },
+    { name: "Postgrados", href: "#postgrados" },
     { name: "Sedes", href: "#sedes" },
     { name: "Admisión", href: "#admision" },
     { name: "Fechas", href: "#fechas" },
